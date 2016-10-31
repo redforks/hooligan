@@ -2,8 +2,8 @@
   "exclude" : [
     "layouts/*",
     "stylesheets/_sass/*",
-    '*README.md',
-    '*sample.html'
+    "*README.md",
+    "*sample.html"
   ],
   
   "stylesheets" : {
